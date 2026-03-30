@@ -1,8 +1,8 @@
 import requests
 import time
 
-TOKEN = "YOUR_TOKEN"
-CHAT_ID = "YOUR_CHAT_ID"
+TOKEN = "8633538252:AAGIDwplfgtsGcGvZPCJmMrnX_R0dGOzOAc"
+CHAT_ID = "8007854479"
 
 COINS = ["bitcoin", "ethereum", "solana", "binancecoin", "ripple"]
 
